@@ -1,0 +1,1 @@
+# fintel-wordpress-stock-plugin
